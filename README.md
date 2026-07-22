@@ -27,17 +27,5 @@ This project uses Machine Learning to predict whether a customer is likely to le
 ## Project Goal
 Build an accurate model to predict customer churn and help businesses make better customer retention decisions.
 
-## How to Run
-1. Install the required libraries.
-2. Open the Jupyter Notebook.
-3. Run all the cells in order.
-4. View the model results and evaluation metrics.
-
-## Install Required Libraries
-
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn
-```
-
 ## Output
 The project compares multiple classification models and identifies the best-performing model for customer churn prediction.
