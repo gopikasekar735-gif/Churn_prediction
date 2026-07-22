@@ -1,7 +1,5 @@
 # Churn_prediction
 
-# Customer Churn Prediction
-
 ## Overview
 This project uses Machine Learning to predict whether a customer is likely to leave a company (customer churn). By analyzing customer data, the model helps businesses identify customers at risk and improve customer retention.
 
